@@ -1,4 +1,4 @@
-﻿vets:
+﻿resources:
   cache:
     ttl: 60
     heap-size: 100
